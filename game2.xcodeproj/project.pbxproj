@@ -122,7 +122,6 @@
 				A74EE7DF4AB2F77776DF2763 /* Pods-game2Tests.debug.xcconfig */,
 				5BF1E10F36DB43B834ED8C23 /* Pods-game2Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -587,7 +586,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.bamboo.forest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bamboo.forest.game;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -615,7 +614,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.bamboo.forest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bamboo.forest.game;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
